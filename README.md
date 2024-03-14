@@ -65,8 +65,11 @@
 
 <h3 align="left">🚀My Github Journey:</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamsam&layout=compact"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=subhamsam&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamsam&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=subhamsam&show_icons=true&theme=radical"/>
 
 
-<img align="center" src="https://github.com/subhamsam/subhamsam/blob/output/github-contribution-grid-snake.svg"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=90&rotate=-36" />
+</p>
 
