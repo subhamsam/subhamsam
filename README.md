@@ -106,4 +106,6 @@ Check my repositories for project topologies, configurations, verification comma
 
 I'm always interested in learning, solving networking problems, and connecting with people in the networking and IT infrastructure community.
 
+I'm open to network engineer / NOC / IT infrastructure opportunities and always happy to talk networking.
+
 **Thanks for visiting my profile!** 🚀
