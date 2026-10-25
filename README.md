@@ -71,12 +71,25 @@ Check my repositories for project topologies, configurations, verification comma
 
 ---
 
-## 📈 My GitHub Journey
+## 🚀 Featured Networking Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav123321&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav123321&layout=compact&theme=tokyonight" height="165" />
+  <a href="YOUR-REPOSITORY-LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav123321&repo=YOUR-REPOSITORY-NAME&theme=tokyonight" />
+  </a>
+  <a href="YOUR-SECOND-REPOSITORY-LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav123321&repo=YOUR-SECOND-REPOSITORY-NAME&theme=tokyonight" />
+  </a>
 </p>
+
+### 🌐 Networking Labs
+
+- **Multi-Department Network Design** — VLANs, subnetting, trunking, inter-VLAN routing, and DHCP.
+- **Routing & Switching Lab** — Static routing, network connectivity, and configuration verification.
+- **Network Troubleshooting Lab** — Fault identification, root-cause analysis, corrective actions, and connectivity testing.
+
+📌 *Project repositories and documentation will be updated as I complete each lab.*
+
 
 ---
 
