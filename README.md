@@ -1,75 +1,96 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone!🕹&fontSize=90" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=150&section=header&text=Lets%20Connect%20and%20Have%20a%20Chat💬&fontSize=40" />
-</p>
+# Hi, I'm Sourav Mahato 👋
 
-<p align="center">
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://github.com/subhamsam/subhamsam/assets/96036333/19ed721d-51e3-476a-b92c-2de91b9d80ff"/>
-  </a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://github.com/subhamsam/subhamsam/assets/96036333/eea46125-422e-48e9-b810-3b19d963bd19"/>
-  </a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://github.com/subhamsam/subhamsam/assets/96036333/2c3d96a6-5c02-4ec6-ae1b-441fa5b1e25c"/>
-  </a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://github.com/subhamsam/subhamsam/assets/96036333/a17e7eb5-2b6b-4627-9bfc-1360fe01db32"/>
-  </a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://github.com/subhamsam/subhamsam/assets/96036333/0431e634-f911-4861-85af-b483f2ef8fe9"/>
-  </a>
-  
-</p>
+### Aspiring Network Engineer | Networking | CCNA | Network Troubleshooting
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZsMWZzang0bGlobmJhajljbDd1OWJjYmduYngyMWV3amVvcG12bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BGIqWh2R1fi6JDa/giphy.gif"/>
-</p>
+I'm a Computer Science Engineering graduate building my career in **Computer Networking and IT Infrastructure**.
 
+I'm focused on developing practical networking skills through hands-on labs, network configuration, troubleshooting scenarios, and documented projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamsam&label=Profile%20views&color=0e75b6&style=flat" alt="subhamsam" /> </p>
+- 🌐 Learning and practising Cisco networking concepts
+- 🔧 Building network topologies using Cisco Packet Tracer
+- 🧩 Practising VLANs, inter-VLAN routing, subnetting, DHCP, and static routing
+- 🛠️ Developing troubleshooting skills through real-world-inspired scenarios
+- 🚀 Interested in Network Automation, Python, Linux, and Cloud Networking
+- 📂 Documenting my networking labs and projects on GitHub
 
-<h3 align="left">🖥️Connect with me:</h3>
+---
+
+## 🖥️ Networking Skills
+
 <p align="left">
-<a href="https://www.leetcode.com/sourav123321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourav123321" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPv4%20%26%20Subnetting-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLANs%20%26%20Trunking-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Static%20Routing-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DHCP-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network%20Troubleshooting-EF6C00?style=for-the-badge" />
 </p>
 
+### Concepts I'm Practising
 
-<h3 align="left">🚀Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<h4 align="left">Programming Language:</h4>
+- OSI and TCP/IP models
+- IPv4 addressing and subnetting
+- Switching, VLANs, and trunking
+- Inter-VLAN routing
+- Static routing and default routes
+- DHCP configuration
+- Spanning Tree Protocol (STP)
+- EtherChannel and LACP
+- Access control lists (ACLs)
+- Network troubleshooting and verification
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<h4 align="left">Front End:</h4>
+*I am continuing to strengthen these skills through hands-on labs and project work.*
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+---
 
-<h4 align="left">Back End:</h4>
+## 🧪 Networking Labs & Projects
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+My goal is to build practical projects that demonstrate how networks are designed, configured, tested, and troubleshot.
 
+| Project | Description |
+|---|---|
+| 🏢 Multi-Department Network | Designing a network with multiple departments, VLANs, and inter-VLAN routing |
+| 🌐 DHCP Across Multiple VLANs | Configuring DHCP services for different VLANs and verifying client connectivity |
+| 🔀 Switching & Routing Lab | Practising VLANs, trunk links, static routes, and end-to-end connectivity |
+| 🛠️ Network Troubleshooting Lab | Introducing configuration faults, diagnosing the root cause, applying fixes, and documenting the results |
 
-<h4 align="left">DataBase:</h4>
+Check my repositories for project topologies, configurations, verification commands, and troubleshooting notes.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+---
 
-<h4 align="left">Design:</h4>
+## 🛠️ Tools & Technologies
 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-
-<h4 align="left">Other Tools:</h4>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-00AEEF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<h3 align="left">🚀My Github Journey:</h3>
+**Exploring next:** Python for network automation, Linux administration, and cloud networking.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamsam&layout=compact"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=subhamsam&show_icons=true&theme=radical"/>
+---
 
+## 📈 My GitHub Journey
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=90&rotate=-36" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav123321&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav123321&layout=compact&theme=tokyonight" height="165" />
 </p>
 
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/sourav123321" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+I'm always interested in learning, solving networking problems, and connecting with people in the networking and IT infrastructure community.
+
+**Thanks for visiting my profile!** 🚀
